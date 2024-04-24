@@ -619,11 +619,11 @@ margin-right:
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 16px;
 }
 
 .sub-icon {
   fill: #fff;
+  margin-left: 16px;
 }
 /* ------------------------------ */
 
