@@ -581,6 +581,7 @@ margin-right:
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 24px;
 }
 
 .sub-label {
@@ -610,7 +611,6 @@ margin-right:
   padding: 8px 24px;
   width: 165px;
   height: 40px;
-  margin-left: 24px;
   background: #4d5ae5;
   display: flex;
   justify-content: center;
