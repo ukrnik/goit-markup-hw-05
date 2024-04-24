@@ -594,22 +594,26 @@ margin-right:
   width: 264px;
   height: 40px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 0.04em;
+  padding-left: 16px;
+  color: #ffffff;
 }
 
 .sub-input::placeholder {
-  font-size: 12px;
-  letter-spacing: 0.04em;
-  color: #fff;
-  padding-left: 16px;
+  color: #ffffff;
 }
 
 .sub-btm {
   font-size: 16px;
   letter-spacing: 0.04em;
+  font-weight: 500;
+  line-height: 1.5;
   color: #fff;
   border-radius: 4px;
   padding: 8px 24px;
-  width: 165px;
+  min-width: 165px;
   height: 40px;
   background: #4d5ae5;
   display: flex;
