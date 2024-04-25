@@ -766,6 +766,9 @@ margin-right:
   background-color: transparent;
   outline: transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.modal-textarea-a {
   margin-bottom: 16px;
 }
 
@@ -855,9 +858,6 @@ margin-right:
   letter-spacing: 0.04em;
   color: #fff;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  display: flex;
-  justify-content: center;
-  margin-top: 24px;
 }
 
 /* :root {
