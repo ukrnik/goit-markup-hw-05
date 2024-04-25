@@ -838,13 +838,14 @@ margin-right:
 .check-icon {
 }
 
-/* .modal-form-div-btm {
+.modal-form-div-btm {
   display: flex;
   justify-content: center;
   margin-top: 24px;
-} */
+}
 
 .modal-form-btm {
+  margin: 0 auto;
   display: block;
   border-radius: 4px;
   padding: 16px 32px;
